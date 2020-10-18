@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+.body{
+
+background: #bde0fe!important;
+}
+
+.art{
+overflow: hidden!important;
+width:730px!important;
+height:400px!important;
+}
+
+.pinbt{
+    color:#fff!important;
+    background-color:#f28482!important;
+
+}
+/*.pinbt:hover,.pinbt:active,.pinbt:visited{
+    background-color:#ef233c!important;
+
+}
+*/
+
+
+
+.yelbt{
+    color:#fff!important;
+    background-color:#f6bd60!important;
+
+}
+.yelbt:hover,.yelbt:active,.yelbt:visited{
+    background-color:#219ebc!important;
+
+}
+
+.redbt{
+    color:#fff!important;
+    background-color:#ef233c!important;
+
+}
+.redbt:hover,.redbt:active,.redbt:visited{
+    background-color:#f6bd60!important;
+
+}
+
+.btn{
+    text-transform:lowercase!important;
+    font-size:20!important;
+    font-family:"Open Sans";
+}
+
+.imgcustom {
+    height:150px!important;
+    width:200px!important;
+    overflow:hidden!important;
+}
+
+#index h1 {
+    color:#219ebc;
+}
+
+
+#index h4 {
+    color:#219ebc;
+}
+
+#index h5 {
+    color:#f6bd60;
+}
+
+#index nav {
+color:#fff;
+background-color:#219ebc;
+}
